@@ -1,0 +1,2 @@
+# TradingQuant
+Forex, futuros, CFT
